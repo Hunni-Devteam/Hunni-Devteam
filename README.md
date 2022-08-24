@@ -1,4 +1,4 @@
-<img align="right" height="700" src="https://pjsekai.sega.jp/assets/images/character/unite01/chara02/chara.png"  />
+<img align="right" height="650" src="https://pjsekai.sega.jp/assets/images/character/unite01/chara02/chara.png"  />
 
 ###
 
