@@ -9,7 +9,7 @@
 
 ###
 
-<h6 align="left">Preferred to Use -</h6>
+<h6 align="left">Prefer to Use -</h6>
 
 ###
 
