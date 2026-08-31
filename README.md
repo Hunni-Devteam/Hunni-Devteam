@@ -1,15 +1,13 @@
 <!--<img align="right" height="650" src="https://pjsekai.sega.jp/assets/images/character/unite01/chara02/chara.png"  />-->
+<!--<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=hunni-devteam&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150" alt="stats graph"  />
+-->
 
-###
-<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=hunni-devteam" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=hunni-devteam" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=hunni-devteam&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150" alt="languages graph"  />
 </div>
-###
+
 
 <h6 align="left">Prefer to Use -</h6>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
