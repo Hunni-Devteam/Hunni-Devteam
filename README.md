@@ -1,8 +1,5 @@
 <img src="./assets/halo-header.svg" width="100%" alt="Halo · Hunni-Devteam" />
 
-## Toolbox
-
-지금까지 사용해 본 언어와 도구입니다.
 
 <p>
   <img src="./assets/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /> &nbsp;
