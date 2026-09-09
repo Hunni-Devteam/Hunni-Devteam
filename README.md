@@ -1,57 +1,33 @@
-<p align="center">
-  <img src="./assets/halo-header.svg" width="100%" alt="Halo — Hunni-Devteam. Frontend, UI, and learning. Seoul." />
-</p>
-
-<p align="center">
-  <a href="#toolbox">Toolbox</a> &nbsp; · &nbsp;
-  <a href="#projects--notes">Projects &amp; Notes</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Hunni-Devteam?tab=repositories">All repositories ↗</a>
-</p>
-
-<br />
+<img src="./assets/halo-header.svg" width="100%" alt="Halo · Hunni-Devteam" />
 
 ## Toolbox
 
-주로 사용하는 언어와 도구입니다.
+지금까지 사용해 본 언어와 도구입니다.
 
 <p>
-  <img src="./assets/typescript.svg" width="40" height="40" alt="TypeScript" /> &nbsp;
-  <img src="./assets/react.svg" width="40" height="40" alt="React" /> &nbsp;
-  <img src="./assets/yarn.svg" width="40" height="40" alt="Yarn" /> &nbsp;
-  <img src="./assets/vscode.svg" width="40" height="40" alt="VS Code" /> &nbsp;
-  <img src="./assets/figma.svg" width="40" height="40" alt="Figma" /> &nbsp;
-  <img src="./assets/storybook.svg" width="40" height="40" alt="Storybook" /> &nbsp;
+  <img src="./assets/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="./assets/react.svg" width="36" height="36" alt="React" title="React" /> &nbsp;
+  <img src="./assets/nextjs.svg" width="36" height="36" alt="Next.js" title="Next.js" /> &nbsp;
+  <img src="./assets/redux.svg" width="36" height="36" alt="Redux" title="Redux" /> &nbsp;
+  <img src="./assets/vuejs.svg" width="36" height="36" alt="Vue" title="Vue" /> &nbsp;
+  <img src="./assets/nuxtjs.svg" width="36" height="36" alt="Nuxt" title="Nuxt" /> &nbsp;
+  <img src="./assets/angularjs.svg" width="36" height="36" alt="AngularJS" title="AngularJS" /> &nbsp;
 </p>
 
-**TypeScript · React · Yarn · VS Code · Figma · Storybook**
+<p>
+  <img src="./assets/jquery.svg" width="36" height="36" alt="jQuery" title="jQuery" /> &nbsp;
+  <img src="./assets/nodejs.svg" width="36" height="36" alt="Node.js" title="Node.js" /> &nbsp;
+  <img src="./assets/laravel.svg" width="36" height="36" alt="Laravel" title="Laravel" /> &nbsp;
+  <img src="./assets/mysql.svg" width="36" height="36" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="./assets/mongodb.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /> &nbsp;
+  <img src="./assets/bootstrap.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /> &nbsp;
+  <img src="./assets/materialui.svg" width="36" height="36" alt="Material UI" title="Material UI" /> &nbsp;
+</p>
 
-<details>
-  <summary>Previously used</summary>
-
-Redux · Bootstrap · jQuery · AngularJS · Vue · Nuxt · Laravel · MySQL · Node.js · MongoDB · Ionic · Material UI · Next.js
-
-</details>
-
-<br />
-
-## Projects & Notes
-
-| | Repository | About |
-| :--- | :--- | :--- |
-| `01` | [Pre-onboarding Challenge](https://github.com/Hunni-Devteam/2025-feb-wanted-pre-onboarding-challenge) | Promise와 비동기 이터러블 예제 |
-| `02` | [TypeScript Onboarding](https://github.com/Hunni-Devteam/30m-fast-typescript-onboarding) | TypeScript 온보딩 · Next.js 프로젝트 |
-| `03` | [FE Session Retrospective](https://github.com/Hunni-Devteam/FE-Session-Retrospective) | 프론트엔드 교육과정의 배움과 회고 |
-
-<br />
-
-<details>
-  <summary>Language stats</summary>
-  <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=420&amp;langs_count=5&amp;bg_color=100e19&amp;title_color=c4b5fd&amp;text_color=c3b9d3&amp;border_color=574174&amp;hide_border=false&amp;username=hunni-devteam&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub language statistics" />
-</details>
-
-<br />
-
-<p align="center">
-  <img src="./assets/halo-footer.svg" width="100%" alt="Hunni-Devteam · Code, notes, and experiments." />
+<p>
+  <img src="./assets/ionic.svg" width="36" height="36" alt="Ionic" title="Ionic" /> &nbsp;
+  <img src="./assets/yarn.svg" width="36" height="36" alt="Yarn" title="Yarn" /> &nbsp;
+  <img src="./assets/vscode.svg" width="36" height="36" alt="VS Code" title="VS Code" /> &nbsp;
+  <img src="./assets/figma.svg" width="36" height="36" alt="Figma" title="Figma" /> &nbsp;
+  <img src="./assets/storybook.svg" width="36" height="36" alt="Storybook" title="Storybook" /> &nbsp;
 </p>
