@@ -1,43 +1,57 @@
-<!--<img align="right" height="650" src="https://pjsekai.sega.jp/assets/images/character/unite01/chara02/chara.png"  />-->
-<!--<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=hunni-devteam&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150" alt="stats graph"  />
--->
+<p align="center">
+  <img src="./assets/halo-header.svg" width="100%" alt="Halo — Hunni-Devteam. Frontend, UI, and learning. Seoul." />
+</p>
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=hunni-devteam&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="#toolbox">Toolbox</a> &nbsp; · &nbsp;
+  <a href="#projects--notes">Projects &amp; Notes</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Hunni-Devteam?tab=repositories">All repositories ↗</a>
+</p>
 
+<br />
 
-<h6 align="left">Prefer to Use -</h6>
+## Toolbox
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-</div>
+주로 사용하는 언어와 도구입니다.
 
-###
+<p>
+  <img src="./assets/typescript.svg" width="40" height="40" alt="TypeScript" /> &nbsp;
+  <img src="./assets/react.svg" width="40" height="40" alt="React" /> &nbsp;
+  <img src="./assets/yarn.svg" width="40" height="40" alt="Yarn" /> &nbsp;
+  <img src="./assets/vscode.svg" width="40" height="40" alt="VS Code" /> &nbsp;
+  <img src="./assets/figma.svg" width="40" height="40" alt="Figma" /> &nbsp;
+  <img src="./assets/storybook.svg" width="40" height="40" alt="Storybook" /> &nbsp;
+</p>
 
-<h6 align="left">Previously Used -</h6>
+**TypeScript · React · Yarn · VS Code · Figma · Storybook**
 
-###
+<details>
+  <summary>Previously used</summary>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="52" alt="nuxtjs logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="52" alt="ionic logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-</div>
+Redux · Bootstrap · jQuery · AngularJS · Vue · Nuxt · Laravel · MySQL · Node.js · MongoDB · Ionic · Material UI · Next.js
 
-###
+</details>
+
+<br />
+
+## Projects & Notes
+
+| | Repository | About |
+| :--- | :--- | :--- |
+| `01` | [Pre-onboarding Challenge](https://github.com/Hunni-Devteam/2025-feb-wanted-pre-onboarding-challenge) | Promise와 비동기 이터러블 예제 |
+| `02` | [TypeScript Onboarding](https://github.com/Hunni-Devteam/30m-fast-typescript-onboarding) | TypeScript 온보딩 · Next.js 프로젝트 |
+| `03` | [FE Session Retrospective](https://github.com/Hunni-Devteam/FE-Session-Retrospective) | 프론트엔드 교육과정의 배움과 회고 |
+
+<br />
+
+<details>
+  <summary>Language stats</summary>
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=420&amp;langs_count=5&amp;bg_color=100e19&amp;title_color=c4b5fd&amp;text_color=c3b9d3&amp;border_color=574174&amp;hide_border=false&amp;username=hunni-devteam&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub language statistics" />
+</details>
+
+<br />
+
+<p align="center">
+  <img src="./assets/halo-footer.svg" width="100%" alt="Hunni-Devteam · Code, notes, and experiments." />
+</p>
